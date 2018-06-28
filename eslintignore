@@ -1,0 +1,4 @@
+app/routes/apiguide/**/*
+config/**/*
+apidoc/**/*
+node_modules/**/*
